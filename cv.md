@@ -1,4 +1,5 @@
 # **Katerina Manzhak**
+![CV Manzhak Katerina](Manzhak.jpg "CV Manzhak Katerina")
 -------------------------------------------------
 ### *Contacts:* 
 ### mobile +380503258226
