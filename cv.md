@@ -35,16 +35,16 @@
 ##### * English Language Certificate (B2), 2018
 ##### * Certificate, Course "Basics Web UI Development 2022", 2022
 -------------------------------------------------
-### Example of code from codewars:
-### const assert = require("chai").assert;
-### describe("Multiply", () => {
-###   it("fixed tests", () => {
-###     assert.strictEqual(multiply(1,1), 1);
-###     assert.strictEqual(multiply(2,1), 2);
-###     assert.strictEqual(multiply(2,2), 4);
-###     assert.strictEqual(multiply(3,5), 15);   
-###   });
-### });
+##### Example of code from codewars:
+##### const assert = require("chai").assert;
+##### describe("Multiply", () => {
+#####   it("fixed tests", () => {
+#####     assert.strictEqual(multiply(1,1), 1);
+#####     assert.strictEqual(multiply(2,1), 2);
+#####     assert.strictEqual(multiply(2,2), 4);
+#####     assert.strictEqual(multiply(3,5), 15);   
+#####   });
+##### });
 -------------------------------------------------
 
 
