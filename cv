@@ -1,3 +1,0 @@
-# Katerina Manzhak
-
-## Contacts
