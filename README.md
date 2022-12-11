@@ -1,2 +1,1 @@
-# rsscholl-cv
-Stage0
+https://manzhakkaterina.github.io/rsschool-cv/cv
