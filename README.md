@@ -1,1 +1,1 @@
-https://manzhakkaterina.github.io/rsscholl-cv/cv
+https://manzhakkaterina.github.io/rsschool-cv/cv
