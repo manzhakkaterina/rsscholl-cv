@@ -1,3 +1,3 @@
-https://manzhakkaterina.github.io/rsschool-cv/cv.md
+https://github-manzhakkaterina.github.io/rsschool-cv/cv
 
 
