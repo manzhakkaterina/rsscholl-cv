@@ -2,7 +2,7 @@
 -------------------------------------------------
 ![CV Manzhak Katerina](Manzhak.jpg "CV Manzhak Katerina")
 -------------------------------------------------
-### *Contacts:* 
+### *Contacts:*  
 ### mobile: +380503258226
 ### e-mail: manzhak.katerina@gmail.com
 ### Discord RS School: Katerina#9997
