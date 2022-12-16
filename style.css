@@ -1,0 +1,50 @@
+body  {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Roboto', sans-serif;
+     font-family: 'Spline Sans', sans-serif;
+}
+table {
+  color: black;
+  padding: 10px;
+  width: 100%;
+  border: 0;
+}
+h1,
+h2,
+em {
+  color: green;
+  text-align: center;
+}
+h4, 
+h3 {
+  color: black;
+  text-align: center;
+}
+footer {
+   border: 1px solid blue;
+   max-width: 1440px;
+   margin: 0 auto;
+   padding: 10px;
+   width: 100%;
+}
+.logo {
+   float: right;
+}
+* {
+     box-sizing: border-box;
+}
+   html {
+     scroll-behavior: smooth; 
+}
+.table-td1 {
+   color: green;
+   font-size: 16px;
+   font-weight: bold;
+}
+.table-td2 {
+   color: black;
+   font-size: 14px;
+}
