@@ -1,6 +1,6 @@
 # **Katerina Manzhak**
 -------------------------------------------------
-![CV Manzhak Katerina](Manzhak.jpg "CV Manzhak Katerina")
+![CV Manzhak Katerina](Manzhak_.jpg "CV Manzhak Katerina")
 -------------------------------------------------
 ### *Contacts:*  
 ### mobile: +380503258226
@@ -47,5 +47,4 @@
 ##### });
 -------------------------------------------------
 ### My first project is https://manzhakkaterina.github.io/rsschool-cv/cv
--------------------------------------------------
 -------------------------------------------------
